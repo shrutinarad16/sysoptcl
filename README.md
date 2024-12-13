@@ -40,7 +40,7 @@ To get started with sysopctl, follow these simple steps:
 
 1. *Clone the repository:*
    bash
-   git clone https://github.com/yourusername/sysopctl.git
+   git clone https://github.com/shrutinarad16/sysopctl.git
    cd sysopctl
    
 
