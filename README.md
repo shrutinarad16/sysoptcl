@@ -1,5 +1,5 @@
-# sysoptcl
-# sysopctl v0.1.0
+#  Name: sysopctl
+#  Version: v0.1.0
 
 ## Overview
 
