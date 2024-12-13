@@ -131,41 +131,50 @@ Here are some sample screenshots demonstrating the use of various commands in sy
 bash
 $ sysopctl --help
 
+![Help](https://github.com/user-attachments/assets/cc4db2b5-00bc-4c04-b37d-3de2ec62b989)
+
 
 ### List Services
 bash
 $ sysopctl service list
+![Service List](https://github.com/user-attachments/assets/fafc5b5c-2213-45b4-93c4-b1d03fe82f74)
 
 
 ### View System Load
 bash
 $ sysopctl system load
+![System Load](https://github.com/user-attachments/assets/8bb79c14-a601-49cd-821f-e2c00e676628)
 
 
 ### Manage System Services
 #### Start a Service
 bash
 $ sysopctl service start nginx
+![Process Monitor](https://github.com/user-attachments/assets/460d7146-8f67-48bd-9312-70fd474a0561)
 
 
 #### Stop a Service
 bash
 $ sysopctl service stop nginx
+![Logs Analyse](https://github.com/user-attachments/assets/ea8c2263-fad0-4a61-8174-e3d66ac8dfa1)
 
 
 ### Disk Usage
 bash
 $ sysopctl disk usage
+![Disk Usage, Help,  Version](https://github.com/user-attachments/assets/80ea574a-cf6f-450b-aa5b-a34210d4f4c4)
 
 
 ### Monitor System Processes
 bash
 $ sysopctl process monitor
+![Process Monitor](https://github.com/user-attachments/assets/3c91683e-381a-4fc9-8ec8-f37457457bcc)
 
 
 ### Analyze Logs
 bash
 $ sysopctl logs analyze
+![Logs Analyse](https://github.com/user-attachments/assets/77383699-dc75-42cd-9461-59e19f7b333d)
 
 
 ---
